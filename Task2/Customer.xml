@@ -1,0 +1,29 @@
+ <Customer xmlns="http://kenluck2001.tumblr.com/">
+         <Name>Kenneth odoh</Name>
+         <Address>
+                 <Type>VISITING_ADDRESS</Type>
+                 <Street>Personel Street 20 B 9</Street>
+                 <Street>(P.O. Box 200)</Street>
+                 <PostalCode>12346</PostalCode>
+                 <Town>Turku</Town>
+         </Address>
+
+         <Phone>
+                 <Type>WORK_PHONE</Type>
+                 <Value>+358 999 888 111</Value>
+         </Phone>
+
+         <Email>
+                 <Type>WORK_EMAIL</Type>
+                 <Value>kennex@example.com</Value>
+         </Email>
+
+         <Phone>
+                 <Type>MOBILE_PHONE</Type>
+                 <Value>+358 65 222 777 555</Value>
+         </Phone>
+
+         <Notes>
+                 kenneth is a man.
+         </Notes>
+ </Customer>
